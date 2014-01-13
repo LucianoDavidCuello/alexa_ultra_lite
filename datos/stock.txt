@@ -1,0 +1,3 @@
+:codigo;stock;alarma;
+2;12;1
+1;100;10

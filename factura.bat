@@ -1,0 +1,1 @@
+wspooler.exe -p2 -l -e -f factura.txt

@@ -1,0 +1,8 @@
+Alexa Ultra Lite v0.1
+Este software sirve para enviar comandos al spooler de hasar
+tanto para linux como para windows.
+Permite enviar items mas 4 lineas de texto extra.
+Desarrollado para funcionar correctamente con Hasar 320/330
+
+Para funcionamiento en linux modificar los *.bat y cambiar "wspooler.exe" por "spooler"
+Para libre distribucion y modificacion.
